@@ -50,7 +50,7 @@ ATM-Project/
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/SaiKrishna033/ATM-Project.git
+   git clone https://github.com/SaiKrishnaKona/ATM-Project.git
 
 2. Open in Eclipse (or any IDE).
 
@@ -77,6 +77,4 @@ Choose: 2
 Enter amount to deposit: 4900
 Deposited ₹4900 successfully.
 
------------------------------------
-Feel free to fork this project, improve it, and submit a pull request.
-Suggestions and feedback are welcome!
+
